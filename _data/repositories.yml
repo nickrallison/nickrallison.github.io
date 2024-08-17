@@ -1,14 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - nickrallison
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - nickrallison/robot_hand_ws
+  - nickrallison/robot_hand_firmware
+  - AC-Robotics-uofc/canis_ws
+  - AC-Robotics-uofc/canis_mini_firmware
+  - nickrallison/signal_generator
+  - nickrallison/obsidian-note-linker-with-previewer
+  - nickrallison/obsidian-python-scripter
+  - nickrallison/huffman_coding_algorithm
+  - nickrallison/wordle_solver_bot
+  - nickrallison/pi_approximation
+  - nickrallison/fir_filter_cpp
+  - nickrallison/polynomial_root_finder
+  - nickrallison/imu_calibration_algorithm
