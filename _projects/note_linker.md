@@ -8,7 +8,7 @@ category: fun
 
 
 <div class="repo p-2 text-center">
-  <a href="https://github.com/obsidian-note-linker-with-previewer">
+  <a href="https://github.com/nickrallison/obsidian-note-linker-with-previewer">
     <img
       class="repo-img-light w-100"
       alt="obsidian-note-linker-with-previewer"
