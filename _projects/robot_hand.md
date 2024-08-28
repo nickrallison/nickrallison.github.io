@@ -6,6 +6,38 @@ importance: 2
 category: school
 ---
 
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repo p-2 text-center">
+  <a href="https://github.com/nickrallison/robot_hand_ws">
+    <img
+      class="repo-img-light w-100"
+      alt="robot_hand_ws"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nickrallison&repo=robot_hand_ws&theme={{ site.repo_theme_light }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+    >
+    <img
+      class="repo-img-dark w-100"
+      alt="robot_hand_ws"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nickrallison&repo=robot_hand_ws&theme={{ site.repo_theme_dark }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+    >
+  </a>
+</div>
+
+<div class="repo p-2 text-center">
+  <a href="https://github.com/nickrallison/robot_hand_firmware">
+    <img
+      class="repo-img-light w-100"
+      alt="robot_hand_firmware"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nickrallison&repo=robot_hand_firmware&theme={{ site.repo_theme_light }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+    >
+    <img
+      class="repo-img-dark w-100"
+      alt="robot_hand_firmware"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nickrallison&repo=robot_hand_firmware&theme={{ site.repo_theme_dark }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+    >
+  </a>
+</div>
+</div>
+
 This was a group project where we created and programmed a robot hand to translate human speach into spelled sign language.
 
 <div class="row">

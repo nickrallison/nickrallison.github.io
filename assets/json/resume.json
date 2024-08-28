@@ -68,7 +68,7 @@
       "institution": "University of Calgary",
       "location": "Calgary, Canada",
       "url": "https://www.ucalgary.ca/",
-      "area": "Electrical Engineering, 3.94/4.00",
+      "area": "Electrical Engineering, 3.93/4.00",
       "studyType": "BSc",
       "startDate": "2020",
       "endDate": "2026",
@@ -78,7 +78,7 @@
       "institution": "University of Calgary",
       "location": "Calgary, Canada",
       "url": "https://www.ucalgary.ca/",
-      "area": "Computer Science, 3.94/4.00",
+      "area": "Computer Science, 3.93/4.00",
       "studyType": "BSc",
       "startDate": "2020",
       "endDate": "2026",
@@ -92,7 +92,7 @@
       "keywords": [
         "Verilog & SystemVerilog",
         "Synopsys Tools: VCS, Verdi",
-        "Power Optimization",
+        "Power Analysis Tools: PowerPro",
         "C & C++"
       ]
     },
@@ -103,6 +103,7 @@
         "C & C++",
         "Python",
         "Rust",
+        "Linux",
         "Bash Scripting",
         "Git"
       ]
@@ -117,35 +118,45 @@
       ]
     }
   ],
-  "references": [
+  // "references": [
+  //   {
+  //     "name": "Professor John Doe",
+  //     "icon": "fa-solid fa-laptop",
+  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  //   },
+  //   {
+  //     "name": "Professor John Doe",
+  //     "icon": "fa-solid fa-thumbtack",
+  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  //   }
+  // ],
+  "projects": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Robot Hand",
+      "summary": "A robot hand that can translate speach into sign language.",
+      "startDate": "2023-01-01",
+      "endDate": "2023-04-30",
+      "url": "https://github.com/nickrallison/robot_hand_ws",
+      "highlights": [
+        "Written with C++ & ROS Noetic"
+      ]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Note Linker and Markdown Parser",
+      "summary": "A plugin to find links in markdown files and link them together.",
+      "startDate": "2024-04-01",
+      "endDate": "2024-08-30",
+      "url": "https://github.com/nickrallison/obsidian-note-linker-with-previewer",
+      "highlights": [
+        "Written with Rust, WebAssembly, and TypeScript"
+      ]
+    },
     {
       "name": "Obsidian Python Scripter",
       "summary": "A plugin for a note-taking app that allows users to write scripts in Python to automate tasks.",
       "startDate": "2023-08-29",
       "endDate": "2023-08-29",
       "url": "https://github.com/nickrallison/obsidian-python-scripter"
-    },
-    {
-      "name": "Robot Hand",
-      "summary": "A robot hand that can translate speach into sign language.",
-      "startDate": "2023-01-01",
-      "endDate": "2023-04-30",
-      "url": "https://github.com/nickrallison/robot_hand_firmware",
-      "highlights": [
-        "Written with C++ & ROS Noetic"
-      ]
     },
     {
       "name": "Numerically Controlled Oscillator",
@@ -191,15 +202,15 @@
         "Used probability theory & information theory to solve the game"
       ]
     }
-  ],
-  "interests": [
-    {
-      "name": "Rock Climbing",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Skiing",
-      "icon": "fa-solid fa-tag"
-    }
   ]
+  // "interests": [
+  //   {
+  //     "name": "Rock Climbing",
+  //     "icon": "fa-solid fa-tag"
+  //   },
+  //   {
+  //     "name": "Skiing",
+  //     "icon": "fa-solid fa-tag"
+  //   }
+  // ]
 }
