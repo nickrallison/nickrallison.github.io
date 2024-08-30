@@ -25,6 +25,40 @@
       }
     ]
   },
+  "skills": [
+    {
+      "name": "Hardware Design",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Verilog & SystemVerilog",
+        "Synopsys Tools: VCS, Verdi",
+        "Power Analysis Tools: PowerPro",
+        "C & C++"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C & C++",
+        "Python",
+        "Rust",
+        "GDB",
+        "Linux",
+        "Bash Scripting",
+        "Git"
+      ]
+    },
+    {
+      "name": "Electronics",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Embedded Systems",
+        "LTSpice",
+        "MOSFETs Circuits"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Qualcomm",
@@ -35,8 +69,10 @@
       "summary": "Worked for the display team on the Snapdragon X Elite series & beyond. I was responsible for working on power optimization on the hardware, I also worked test runtime optimizations and compile time optimizations.",
       "highlights": [
         "Led the transition to using CMake as the build system",
-        "167% improvement in total compilation time (67 Minutes to 25 Minutes)",
-        "Presented this transition live to the team of 70 engineers"
+        "167% improvement in total compilation time (67 Minutes to 25 Minutes with 10 Minutes as the new best case)",
+        "Presented this transition live to the team of 70 engineers",
+        "Worked on Instantiating and connecting new modules to the existing design",
+        "Worked on power optimization for the existing design"
       ]
     },
     {
@@ -85,52 +121,29 @@
       "score": "3.93/4.00"
     }
   ],
-  "skills": [
+  "references": [
     {
-      "name": "Hardware Design",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Verilog & SystemVerilog",
-        "Synopsys Tools: VCS, Verdi",
-        "Power Analysis Tools: PowerPro",
-        "C & C++"
-      ]
+      "name": "Yuriy Zaporozhets",
+      "icon": "fa-solid fa-laptop",
+      "title": "Engineer, Principal",
+      "company": "Qualcomm",
+      "contact": "Email available on request"
     },
     {
-      "name": "Software Development",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C & C++",
-        "Python",
-        "Rust",
-        "GDB",
-        "Linux",
-        "Bash Scripting",
-        "Git"
-      ]
+      "name": "Victor Li",
+      "icon": "fa-solid fa-laptop",
+      "title": "Engineer, Principal/Manager",
+      "company": "Qualcomm",
+      "contact": "vli@qti.qualcomm.com"
     },
     {
-      "name": "Electronics",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Embedded Systems",
-        "LTSpice",
-        "MOSFETs Circuits"
-      ]
+      "name": "Bobby Man",
+      "icon": "fa-solid fa-laptop",
+      "title": "Engineer, Staff",
+      "company": "Qualcomm",
+      "contact": "Email available on request"
     }
   ],
-  // "references": [
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-laptop",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   },
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-thumbtack",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   }
-  // ],
   "projects": [
     {
       "name": "Robot Hand",
