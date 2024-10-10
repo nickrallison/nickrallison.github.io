@@ -121,29 +121,29 @@
       "score": "3.93/4.00"
     }
   ],
-  "references": [
-    {
-      "name": "Yuriy Zaporozhets",
-      "icon": "fa-solid fa-laptop",
-      "title": "Engineer, Principal",
-      "company": "Qualcomm",
-      "contact": "Email available on request"
-    },
-    {
-      "name": "Victor Li",
-      "icon": "fa-solid fa-laptop",
-      "title": "Engineer, Principal/Manager",
-      "company": "Qualcomm",
-      "contact": "vli@qti.qualcomm.com"
-    },
-    {
-      "name": "Bobby Man",
-      "icon": "fa-solid fa-laptop",
-      "title": "Engineer, Staff",
-      "company": "Qualcomm",
-      "contact": "Email available on request"
-    }
-  ],
+  // "references": [
+  //   {
+  //    "name": "Yuriy Zaporozhets",
+  //     "icon": "fa-solid fa-laptop",
+  //     "title": "Engineer, Principal",
+  //     "company": "Qualcomm",
+  //     "contact": "Email available on request"
+  //   },
+  //   {
+  //     "name": "Victor Li",
+  //     "icon": "fa-solid fa-laptop",
+  //     "title": "Engineer, Principal/Manager",
+  //     "company": "Qualcomm",
+  //     "contact": "Email available on request"
+  //   },
+  //   {
+  //     "name": "Bobby Man",
+  //     "icon": "fa-solid fa-laptop",
+  //     "title": "Engineer, Staff",
+  //     "company": "Qualcomm",
+  //     "contact": "Email available on request"
+  //   }
+  // ],
   "projects": [
     {
       "name": "Robot Hand",
